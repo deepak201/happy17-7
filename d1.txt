@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 8638-EE55
-
- Directory of C:\Users\deepak.reddy\Desktop\MyProject
-
-07/17/2017  06:27 PM    <DIR>          .
-07/17/2017  06:27 PM    <DIR>          ..
-07/17/2017  06:27 PM                 0 d1.txt
-07/17/2017  06:26 PM               365 touch1.txt
-               2 File(s)            365 bytes
-               2 Dir(s)  208,974,680,064 bytes free
+My company is HappiestMinds.
